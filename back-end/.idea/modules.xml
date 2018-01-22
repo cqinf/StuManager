@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/back-end.iml" filepath="$PROJECT_DIR$/back-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studao/studao.iml" filepath="$PROJECT_DIR$/studao/studao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stuentity/stuentity.iml" filepath="$PROJECT_DIR$/stuentity/stuentity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stuservice/stuservice.iml" filepath="$PROJECT_DIR$/stuservice/stuservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stuutil/stuutil.iml" filepath="$PROJECT_DIR$/stuutil/stuutil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stuweb/stuweb.iml" filepath="$PROJECT_DIR$/stuweb/stuweb.iml" />
+    </modules>
+  </component>
+</project>
