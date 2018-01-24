@@ -1,0 +1,12 @@
+com\stu\service\impl\StuServiceImpl.class
+com\stu\service\impl\UserServiceImpl.class
+com\stu\service\impl\StuAttendanceServiceImpl.class
+com\stu\service\IUserService.class
+com\stu\service\impl\ClassExpensesServiceImpl.class
+com\stu\service\impl\ClassBulletinServiceImpl.class
+com\stu\service\IStuService.class
+com\stu\service\IClassBulletinService.class
+com\stu\service\IStuAttendanceService.class
+com\stu\service\IClassExpensesService.class
+com\stu\service\impl\ClassesServiceImpl.class
+com\stu\service\IClassesService.class

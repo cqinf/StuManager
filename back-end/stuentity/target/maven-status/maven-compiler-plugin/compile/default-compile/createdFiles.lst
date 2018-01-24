@@ -1,0 +1,10 @@
+com\stu\entity\cls\ClassBulletin.class
+com\stu\entity\cls\ClassExpenses.class
+com\stu\entity\stu\StuDormitoryCost.class
+com\stu\entity\user\User.class
+com\stu\entity\stu\Stu.class
+com\stu\entity\stu\StuScore.class
+com\stu\entity\stu\StuCredits.class
+com\stu\entity\stu\StuPayment.class
+com\stu\entity\stu\StuAttendance.class
+com\stu\entity\cls\Classes.class
